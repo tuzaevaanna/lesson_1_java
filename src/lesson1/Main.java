@@ -1,7 +1,6 @@
 package lesson1;
 
 public class Main {
-
     public static void main(String[] args) {
         byte a = 15;
         short b = 200;
@@ -50,5 +49,6 @@ public class Main {
     public static void greetings(String name) {
         System.out.println("Привет, " + name + "!!!");
     }
+
 }
 
